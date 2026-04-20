@@ -2,4 +2,4 @@
 my first repo 
 
 
-my first redme
+my first readme
